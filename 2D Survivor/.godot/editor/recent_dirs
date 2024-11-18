@@ -1,0 +1,12 @@
+res://scenes/Ability/axe_ability
+res://scenes/Ability/axe_ability_controller
+res://scenes/ui
+res://scenes/manager
+res://resources/upgrades/
+res://scenes/component
+res://scenes/auto_load
+res://scenes/game_object/experience_vial
+res://scenes/Ability/sword_ability_controller
+res://scenes/Ability/sword_ability
+res://resources/
+res://scenes/main
